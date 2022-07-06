@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CekOngkir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d35b6855-fd3f-4f47-9277-50fed7aabcdf</testCaseGuid>
+   <variable>
+      <defaultValue>'Rp 10.000'</defaultValue>
+      <description></description>
+      <id>2805caca-0486-45fb-a368-152b416eab1b</id>
+      <masked>false</masked>
+      <name>expectedOngkirReg</name>
+   </variable>
+   <variable>
+      <defaultValue>'1-2 Day'</defaultValue>
+      <description></description>
+      <id>d86eaacc-b352-4a24-9d6c-62b38d8f20f7</id>
+      <masked>false</masked>
+      <name>expectedEstimateReg</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rp 22.000'</defaultValue>
+      <description></description>
+      <id>c506132b-d74b-4a6f-9f9e-50b5b7491b77</id>
+      <masked>false</masked>
+      <name>expectedOngkirFrozen</name>
+   </variable>
+   <variable>
+      <defaultValue>'0 Day'</defaultValue>
+      <description></description>
+      <id>d48c292e-1509-4e12-b4d3-ad933d70a4ca</id>
+      <masked>false</masked>
+      <name>expectedEstimateFrozen</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>577b76da-a98c-481a-95c6-a5a12b449032</id>
+      <masked>false</masked>
+      <name>origin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5046d14e-b38f-440e-9287-395a16db9e71</id>
+      <masked>false</masked>
+      <name>destination</name>
+   </variable>
+</TestCaseEntity>

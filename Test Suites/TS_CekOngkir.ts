@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_CekOngkir</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9a65a319-ed1c-4440-a7c3-975f459d51f5</testSuiteGuid>
+   <testCaseLink>
+      <guid>83618fe5-4aca-4904-bc5c-1b5fa146a8b8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_CekOngkir</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a90b9b5a-9074-4a50-9f1a-4673122ece0a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_Origin_Destination</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2805caca-0486-45fb-a368-152b416eab1b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d86eaacc-b352-4a24-9d6c-62b38d8f20f7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c506132b-d74b-4a6f-9f9e-50b5b7491b77</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d48c292e-1509-4e12-b4d3-ad933d70a4ca</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a90b9b5a-9074-4a50-9f1a-4673122ece0a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>origin</value>
+         <variableId>577b76da-a98c-481a-95c6-a5a12b449032</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a90b9b5a-9074-4a50-9f1a-4673122ece0a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>destination</value>
+         <variableId>5046d14e-b38f-440e-9287-395a16db9e71</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
